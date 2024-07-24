@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/solution-to-climate-change-ieee-sscs.git
+git clone https://github.com/mynameisrp96/IEEE-SSCS-Arduino-Contest-Project.git
 Upload the code to Arduino Uno:
 
 Open the project in the Arduino IDE.
